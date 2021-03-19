@@ -17,7 +17,7 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
+  title : "A termékünkről"
   content : "Légyölő galóca kivonat és Tambukan iszap alapján készült. Kissé folyékony, könnyen felvihető. Ami a hatékonyságot illeti, a vásárlók véleménye megoszlott: valaki csak ápolónak tartja, míg valakinek a krém már az első alkalmazáskor segít enyhíteni a fájdalmat. Mindazonáltal mindenki megjegyzi a pihentető aromát - a termék frissességet és virágillatot áraszt (kakukkfű és pacsuli illóolajainak összetételében)."
   image : "images/about.png"
 
@@ -25,7 +25,7 @@ about:
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
+  title : "Termékeink összetevői"
   subtitle : "natural"
   materialItem:
     # material item loop
@@ -51,7 +51,7 @@ material:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
+  title : "A termékünk <br> használatának előnyei"
   subtitle : "Consistencia de crema ultraligera y sin aceite"
   image : "images/advantage.png"
   advantageList:
