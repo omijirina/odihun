@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema hidratante de azuleno con colágeno y elastina para pieles normales"
-  content : "Un excelente humectante para la piel normal es la Crema Hidratante Elastin Collagen Azulene de Christina"
+  title : "A gyógymód segít enyhíteni az ízületi fájdalmakat, és enyhíti a fizikai megterhelés utáni fáradtságot is"
+  content : "Ha eltalál, nyújtsa ki a lábát vagy mozdítsa el a karját - itt a légyölő galóca is hasznot húz. Azoknak ajánljuk, akiknek ízületei reagálnak az időjárásra. A krém lassítja az öregedésüket és táplálja a bőrt."
   image : "images/banner.png"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "Al poseer una textura delicada, la crema se extiende fácilmente sobre la superficie de la piel y se absorbe rápidamente. La fórmula de la crema está enriquecida con colágeno y elastina, lo que contribuye a la preservación de la juventud, firmeza y elasticidad de la piel. Las vitaminas A y E en la fórmula tienen un efecto protector, aumentan la inmunidad y promueven la renovación activa de las células epidérmicas."
+  content : "Légyölő galóca kivonat és Tambukan iszap alapján készült. Kissé folyékony, könnyen felvihető. Ami a hatékonyságot illeti, a vásárlók véleménye megoszlott: valaki csak ápolónak tartja, míg valakinek a krém már az első alkalmazáskor segít enyhíteni a fájdalmat. Mindazonáltal mindenki megjegyzi a pihentető aromát - a termék frissességet és virágillatot áraszt (kakukkfű és pacsuli illóolajainak összetételében)."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Aplique una fina capa de Christina Moisturizer sobre la piel pretratada con suero hasta su total absorción."
+  content : "Vigyen fel egy kis krémet a problémás területre, és masszírozó mozdulatokkal dörzsölje be, amíg kellemes meleget nem érez. A hatás fokozása érdekében a fűtött területet száraz ruhával lehet becsomagolni. Naponta 1-2 alkalommal alkalmazza."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,26 +89,12 @@ testimonial:
     - name : "Angela Perara"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Muy ligero, ingrávido. Lo usaré en verano, para el invierno hay muy poca humedad. Se absorbe rápidamente, no deja una película 5a en el rostro."
+      content : "Egy percen belül elkezd melegedni. Bokatörés után fizikoterápiára szedtem. Ne kenjen sokat, a bőr megég."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Riya Ventilo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "súlyos fáradtsággal a térdeim mindig fájni kezdenek, és úgy tűnik, hogy elcsavarják őket ((((kacsa, ez a kenőcs enyhíti a tüneteket, nagyon jó! Mindenkinek ajánlom!)"
       rating : "three" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "john Doe"
-      image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
-      rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Un buen humectante, pero no es suficiente para mi piel seca (((. Lo uso con suero hialurónico, luego el efecto de dos productos y la piel simplemente brilla, nutre e hidrata"
-      rating : "four" # rating star, one to five
